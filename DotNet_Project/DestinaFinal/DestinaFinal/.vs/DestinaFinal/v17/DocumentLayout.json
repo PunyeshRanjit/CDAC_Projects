@@ -1,0 +1,602 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DestinaFinalDb/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tejas Eknath Naik\\AppData\\Local\\Temp\\aytnwvvo..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DestinaFinalDb/True/SqlTable/dbo.Bookings.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DestinaFinalDb/True/SqlTable/dbo.Payments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\models\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:models\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\controllers\\packagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:controllers\\packagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\models\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:models\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\models\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:models\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\models\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:models\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\models\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:models\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\models\\entities\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:models\\entities\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DestinaFinalDb/True/SqlTable/dbo.Reviews.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\migrations\\20240811163129_notification-fieldname-relationship-updated1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:migrations\\20240811163129_notification-fieldname-relationship-updated1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DestinaFinalDb/True/SqlTable/dbo.Notifications.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\models\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:models\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DestinaFinalDb/True/SqlTable/dbo.Packages.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\models\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:models\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\models\\packagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:models\\packagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sahil\\AppData\\Local\\Temp\\.vsdbgsrc\\8048d24f28e30f19a5e8c29e5f22d64dcdf4b591fc249420dfded72089bc83d2\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\models\\loginmodel\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:models\\loginmodel\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\destinafinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:destinafinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|c:\\final project cdac\\dotnetproject\\destinafinal\\migrations\\20240815124755_updated the payment controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B8F73C-C83B-4857-9518-4A8151A54087}|DestinaFinal.csproj|solutionrelative:migrations\\20240815124755_updated the payment controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tejas Eknath Naik\\AppData\\Local\\Temp\\aytnwvvo..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 221,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 115,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAoBAAAAAAAAAAAgwI0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:18:25.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Payments [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DestinaFinalDb/True/SqlTable/dbo.Payments.sql",
+              "ToolTip": "dbo.Payments [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-15T12:51:28.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Bookings [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DestinaFinalDb/True/SqlTable/dbo.Bookings.sql",
+              "ToolTip": "dbo.Bookings [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-13T15:04:21.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAADwv88AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:18:27.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DestinaFinalDb/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T16:56:24.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Tejas Eknath Naik\\AppData\\Local\\Temp\\aytnwvvo..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Tejas Eknath Naik\\AppData\\Local\\Temp\\aytnwvvo..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T18:05:13.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailDto.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\EmailDto.cs",
+              "RelativeDocumentMoniker": "Models\\EmailDto.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\EmailDto.cs",
+              "RelativeToolTip": "Models\\EmailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:57:51.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:40:55.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\PaymentService.cs",
+              "RelativeDocumentMoniker": "PaymentService.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\PaymentService.cs",
+              "RelativeToolTip": "PaymentService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:39:49.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240815124755_updated the payment controller.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Migrations\\20240815124755_updated the payment controller.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240815124755_updated the payment controller.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Migrations\\20240815124755_updated the payment controller.cs",
+              "RelativeToolTip": "Migrations\\20240815124755_updated the payment controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:47:55.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "Models\\PaymentDto.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\PaymentDto.cs",
+              "RelativeToolTip": "Models\\PaymentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:12:40.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240811163129_notification-fieldname-relationship-updated1.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Migrations\\20240811163129_notification-fieldname-relationship-updated1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240811163129_notification-fieldname-relationship-updated1.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Migrations\\20240811163129_notification-fieldname-relationship-updated1.cs",
+              "RelativeToolTip": "Migrations\\20240811163129_notification-fieldname-relationship-updated1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:31:29.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NotificationDto.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\NotificationDto.cs",
+              "RelativeDocumentMoniker": "Models\\NotificationDto.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\NotificationDto.cs",
+              "RelativeToolTip": "Models\\NotificationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:20:10.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Controllers\\NotificationController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:16:35.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAswJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T14:40:40.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\NotificationService.cs",
+              "RelativeDocumentMoniker": "NotificationService.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\NotificationService.cs",
+              "RelativeToolTip": "NotificationService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T14:52:35.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Controllers\\ReviewController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwD8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T21:30:19.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PackageDto.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\PackageDto.cs",
+              "RelativeDocumentMoniker": "Models\\PackageDto.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\PackageDto.cs",
+              "RelativeToolTip": "Models\\PackageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:14:57.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\Entities\\Notification.cs",
+              "RelativeToolTip": "Models\\Entities\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:53:05.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PackageController.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Controllers\\PackageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PackageController.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Controllers\\PackageController.cs",
+              "RelativeToolTip": "Controllers\\PackageController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:27:56.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\JwtService.cs",
+              "RelativeDocumentMoniker": "JwtService.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\JwtService.cs",
+              "RelativeToolTip": "JwtService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwB8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:41:57.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "Models\\UserDto.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\UserDto.cs",
+              "RelativeToolTip": "Models\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:20:40.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\AppData\\Local\\Temp\\.vsdbgsrc\\8048d24f28e30f19a5e8c29e5f22d64dcdf4b591fc249420dfded72089bc83d2\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\sahil\\AppData\\Local\\Temp\\.vsdbgsrc\\8048d24f28e30f19a5e8c29e5f22d64dcdf4b591fc249420dfded72089bc83d2\\UserController.cs",
+              "ToolTip": "C:\\Users\\sahil\\AppData\\Local\\Temp\\.vsdbgsrc\\8048d24f28e30f19a5e8c29e5f22d64dcdf4b591fc249420dfded72089bc83d2\\UserController.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\sahil\\AppData\\Local\\Temp\\.vsdbgsrc\\8048d24f28e30f19a5e8c29e5f22d64dcdf4b591fc249420dfded72089bc83d2\\UserController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAswD0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T19:29:33.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\LoginModel\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel\\LoginDto.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\LoginModel\\LoginDto.cs",
+              "RelativeToolTip": "Models\\LoginModel\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:41:23.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DestinaFinal.csproj",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\DestinaFinal.csproj",
+              "RelativeDocumentMoniker": "DestinaFinal.csproj",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\DestinaFinal.csproj",
+              "RelativeToolTip": "DestinaFinal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T18:40:45.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T17:39:19.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\EmailService.cs",
+              "RelativeDocumentMoniker": "EmailService.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\EmailService.cs",
+              "RelativeToolTip": "EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:36:10.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAwwCsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:31:09.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Booking.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\Entities\\Booking.cs",
+              "RelativeToolTip": "Models\\Entities\\Booking.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T21:26:24.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Review.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\Entities\\Review.cs",
+              "RelativeToolTip": "Models\\Entities\\Review.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T21:25:08.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\Entities\\Payment.cs",
+              "RelativeToolTip": "Models\\Entities\\Payment.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T21:24:32.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Package.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\Entities\\Package.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Package.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\Entities\\Package.cs",
+              "RelativeToolTip": "Models\\Entities\\Package.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvx8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T20:13:16.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Final Project CDAC\\DotnetProject\\DestinaFinal\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "Models\\Entities\\User.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T20:08:47.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbo.Reviews [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DestinaFinalDb/True/SqlTable/dbo.Reviews.sql",
+              "ToolTip": "dbo.Reviews [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-11T20:07:43.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dbo.Notifications [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DestinaFinalDb/True/SqlTable/dbo.Notifications.sql",
+              "ToolTip": "dbo.Notifications [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-11T15:58:09.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dbo.Packages [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DestinaFinalDb/True/SqlTable/dbo.Packages.sql",
+              "ToolTip": "dbo.Packages [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-08T20:55:37.214Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
